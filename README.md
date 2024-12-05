@@ -1,1 +1,4 @@
-# WinFormsApp1
+Developed by:
+
+Vinicius Moura
+Wellington Rodrigues
